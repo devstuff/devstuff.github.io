@@ -1,0 +1,6 @@
+{
+  "name": "blog@devstuff",
+  "tagline": "",
+  "body": "### Welcome to my new public blog.\r\n\r\nI develop scalable, high performance solutions using Scala and SBT, automate with shell scripts, and occasionally dabble in Ruby and Rails. MacOS and Linux are my primary platforms, after a couple of decades (!) on Windows.\r\n\r\nI commit as @devstuff. Most of my day-to-day contributions are private to @zendesk, where I collaborate with a bunch of great people.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
