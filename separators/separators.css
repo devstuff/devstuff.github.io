@@ -1,0 +1,15 @@
+a.me,
+a.me:active,
+a.me:visited,
+a.me:hover {
+  display: inline-block;
+  width: 60px;
+  height: 28px;
+  font-size: 0;
+  text-shadow: none;
+  color: #294995;
+  background: url("me.png") no-repeat;
+  background-size: 60px 28px;
+  vertical-align: middle;
+  text-decoration: none;
+}
